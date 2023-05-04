@@ -43,6 +43,7 @@ class Automovil extends Transporte {
     }
 }    
 
+
 //INSTANCIA DEL PRIMER OBJETO
 $bicicleta = new Bicicleta(2, 1);
 // EJECUCION DEL METODO HEREDADO DE TRANSPORTE
