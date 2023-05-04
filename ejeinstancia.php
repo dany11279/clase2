@@ -40,6 +40,7 @@ $producto2->mostrarProducto();
 // IMPRECION DE LA PANTALLA DEL SEGUNDO OBJETO
 echo "<pre>";
 var_dump($producto);
+
 echo "</pre>"; 
 
 ?>
